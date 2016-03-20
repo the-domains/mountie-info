@@ -1,0 +1,28 @@
+name: Mountie.info
+favicon: null
+layout_spectrum: 0.9627569068688899
+typography_spectrum: 0.6430780957452953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7521735713817179
+  lightness: 0.7433778445702046
+  saturation: 0.30660299747250974
+  rhythmicContrast: 0.10963467136025429
+purpose: []
