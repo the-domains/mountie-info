@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'As police officers we are trained to engage and overcome, both the legitimate and perceived threats to the public we are sworn to protect. Today, members of the RCMP face a new threat, the ability for our employers, the Commissioner and Treasury Board, to unilaterally roll back wages and/or benefits with no opposition. The threat is no collective voice to speak for members on terms and conditions of employment like pay, benefits, promotions, transfers etc. This sets us back 50 years in terms of labour relations with our employers. We need to react accordingly to contain/eliminate this threat to the general membership.'
-datePublished: '2016-03-20T18:51:50.912Z'
-dateModified: '2016-03-20T18:30:33.062Z'
+datePublished: '2016-03-20T19:21:21.504Z'
+dateModified: '2016-03-20T19:20:46.678Z'
 title: National Police Federation
 author: []
+sourcePath: _posts/2016-03-20-national-police-federation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-national-police-federation.md
-published: true
 url: national-police-federation/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51fe2e64-4710-4226-ad76-a21cfccdf8e3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a37aa41fd606562241d30dee268256da5595bcb.jpg)
 
 As police officers we are trained to engage and overcome, both the legitimate and perceived threats to the public we are sworn to protect. Today, members of the RCMP face a new threat, the ability for our employers, the Commissioner and Treasury Board, to unilaterally roll back wages and/or benefits with no opposition. The threat is no collective voice to speak for members on terms and conditions of employment like pay, benefits, promotions, transfers etc. This sets us back 50 years in terms of labour relations with our employers. We need to react accordingly to contain/eliminate this threat to the general membership.
 
