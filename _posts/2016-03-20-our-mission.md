@@ -1,29 +1,28 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://mppac.ca/wp-content/uploads/2015/11/FAQ.png'
 inLanguage: null
 starred: false
 keywords: []
-description: We are a professional association looking out for the interests of Regular and Civilian members of the Royal Canadian Mounted Police.
-datePublished: '2016-03-20T19:15:07.906Z'
-dateModified: '2016-03-20T19:14:03.481Z'
-author: []
+description: ''
+datePublished: '2016-03-20T19:17:17.274Z'
+dateModified: '2016-03-20T19:16:38.346Z'
 title: OUR MISSION
-sourcePath: _posts/2016-03-20-our-mission.md
-published: true
+author: []
 authors: []
 publisher:
-  name: mppac.ca
-  domain: mppac.ca
+  name: null
+  domain: null
   url: null
   favicon: null
-_context: 'http://schema.org'
+sourcePath: _posts/2016-03-20-our-mission.md
+published: true
+url: our-mission/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8ec42b5-bed2-498a-b3a6-893552d43c3f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6ccecc2-10d9-4efa-bae7-ab5a2ec81d8b.jpg)
 
 # OUR MISSION
 
