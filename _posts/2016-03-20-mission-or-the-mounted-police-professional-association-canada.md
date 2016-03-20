@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://mppac.ca'
-  name: Mppac
-  favicon: null
-  domain: mppac.ca
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://mppac.ca/about/our-mission/'
+inLanguage: en
+starred: false
 keywords:
   - member
   - police
@@ -18,17 +17,20 @@ keywords:
   - professional
   - canadian
 description: 'The Mounted Police Professional Association of Canada is comprised of regular and civilian members of the Royal Canadian Mounted Police. We provide representation to identify, resolve and reach consensus on professional and employment concerns with our Employer.'
-inLanguage: en
+datePublished: '2016-03-20T19:41:29.750Z'
+dateModified: '2016-03-20T19:41:29.482Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://mppac.ca/about/our-mission/'
 title: 'MISSION | The Mounted Police Professional Association Canada'
-datePublished: '2016-03-20T19:38:39.832Z'
-dateModified: '2016-03-20T19:37:32.522Z'
 sourcePath: _posts/2016-03-20-mission-or-the-mounted-police-professional-association-canada.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Mppac
+  domain: mppac.ca
+  url: 'http://mppac.ca'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
