@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: From the Legal Fund Homepage
-datePublished: '2016-03-20T18:51:50.743Z'
-dateModified: '2016-03-20T18:44:39.346Z'
+description: "As the recently elected Chair of the Mounted Police Members' Legal Fund (MPMLF), and on behalf of the Executive and Directors, I welcome you to our website. It is an honour and privilege to serve as one of your MPMLF Executives and I hope that you will find this site to be informative and helpful. I will post a more detailed statement in the future, but due to the urgency, I wish to post the following:"
+datePublished: '2016-03-20T19:34:20.491Z'
+dateModified: '2016-03-20T19:18:25.999Z'
 title: Legal Fund
 author: []
+sourcePath: _posts/2016-03-20-legal-fund.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-legal-fund.md
-published: true
 url: legal-fund/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/218c9742-86c2-415e-9059-7df9c68e22f7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35364e39e597a1f6d3cf37e56a1cf152ef854650.jpg)
 
 As the recently elected Chair of the Mounted Police Members' Legal Fund (MPMLF), and on behalf of the Executive and Directors, I welcome you to our website. It is an honour and privilege to serve as one of your MPMLF Executives and I hope that you will find this site to be informative and helpful. I will post a more detailed statement in the future, but due to the urgency, I wish to post the following:
 
